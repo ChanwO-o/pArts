@@ -22,3 +22,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+
+
+#
+#
+# Chan Woo's paths
+#
+#
+gitignore*
