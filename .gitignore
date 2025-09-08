@@ -31,4 +31,11 @@ $RECYCLE.BIN/
 # Chan Woo's paths
 #
 #
+
+# I'm prefix-ing folders that I want to ignore with 'gitignore'
 gitignore*
+
+# blender backup files - created automatically whenever I save a blender project
+*.blend1
+*.blend2
+*.blend3
