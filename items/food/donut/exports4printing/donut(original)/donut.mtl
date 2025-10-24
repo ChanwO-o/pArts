@@ -1,0 +1,43 @@
+# Blender 4.5.3 LTS MTL File: 'donut.blend'
+# www.blender.org
+
+newmtl Material
+Ns 480.224640
+Ka 1.000000 1.000000 1.000000
+Kd 0.178530 0.803335 0.781539
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/ChanWooPark/Art/items/food/donut/texture_paint/donut/donut base.png
+
+newmtl Material.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.400000
+d 1.000000
+illum 2
+map_Kd C:/Users/ChanWooPark/Art/gitignore-textures/downloaded/Poliigon_StoneQuartzite_8060/8K/Poliigon_StoneQuartzite_8060_BaseColor.jpg
+map_Ns C:/Users/ChanWooPark/Art/gitignore-textures/downloaded/Poliigon_StoneQuartzite_8060/8K/Poliigon_StoneQuartzite_8060_Roughness.jpg
+map_Bump -bm 2.200001 C:/Users/ChanWooPark/Art/gitignore-textures/downloaded/Poliigon_StoneQuartzite_8060/8K/Poliigon_StoneQuartzite_8060_Normal.png
+
+newmtl Sprinkles
+Ns 761.652893
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
